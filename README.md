@@ -25,6 +25,15 @@ to this markdown file.
 
 <hr>
 
+<b>Why is Held-Karp less than or equal tour lengths than Local Search</b>
+
+Held-Karp uses a dynamic programming solution that guarantees finding the optimal solution.
+Local Search however uses heuristic comparisons for its solution, and makes iterative improvements. However Local Search doesn't explore the entire search space and can get stuck in a local minima due to the `max_no_improve` of 100 I set in my implementation, meaning it could miss a global best tour.
+
+This results in the Held-Karp tours always being less than or equal to the Local Search tour length
+
+<b>Methodology</b>
+
 First I copied over the `code.js` files from both my old tsp-held-karp and tsp-local-search assignment repositories. I am using my own code for benchmarking. Both `code.js` files were renamed respectively to `tsp-held-karp.js` and `tsp-local-search.js` and sit in this repository.
 
 Then I created completely new test files for both `tsp-held-karp.js` and `tsp-local-search.js`, where instead of using the previous test code from their respective repositories, I created a benchmarking function that would allow me to manually run the test file and specify the number of cities as an input parameter. I chose to do manual runs because trying to do all testing at once would end up with me losing
@@ -62,3 +71,11 @@ function buildRandomMatrix(size, maxDistance = 10) {
 }
 ```
 
+- Used chatgpt to help create python scripts that created the graphs off of my output.txt data, specifically for how to create the x and y axis, and how to only label specific points for readability. All other code was written by me.
+
+- Referenced https://nodejs.org/api/perf_hooks.html documentation for perf_hooks library to get
+accurate emperical runtime measurements
+
+- Reused code from my tsp-held-karp and tsp-local-search assignment repos.
+
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
