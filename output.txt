@@ -1,0 +1,93 @@
+HK: 2 number of cities, 0.01 runtime, 5 tour length
+LS: 2 number of cities, 0.00 runtime, 6 tour length
+
+HK: 3 number of cities, 0.01 runtime, 3 tour length
+LS: 3 number of cities, 0.00 runtime, 14 tour length
+
+HK: 4 number of cities, 0.01 runtime, 8 tour length
+LS: 4 number of cities, 0.00 runtime, 16 tour length
+
+HK: 5 number of cities, 0.01 runtime, 13 tour length
+LS: 5 number of cities, 0.00 runtime, 15 tour length
+
+HK: 6 number of cities, 0.01 runtime, 13 tour length
+LS: 6 number of cities, 0.00 runtime, 19 tour length
+
+HK: 7 number of cities, 0.02 runtime, 10 tour length
+LS: 7 number of cities, 0.00 runtime, 23 tour length
+
+HK: 8 number of cities, 0.04 runtime, 11 tour length
+LS: 8 number of cities, 0.00 runtime, 15 tour length
+
+HK: 9 number of cities, 0.09 runtime, 22 tour length
+LS: 9 number of cities, 0.00 runtime, 29 tour length
+
+HK: 10 number of cities, 0.16 runtime, 18 tour length
+LS: 10 number of cities, 0.00 runtime, 21 tour length
+
+HK: 11 number of cities, 0.36 runtime, 24 tour length
+LS: 11 number of cities, 0.00 runtime, 26 tour length
+
+HK: 12 number of cities, 0.87 runtime, 16 tour length
+LS: 12 number of cities, 0.00 runtime, 25 tour length
+
+HK: 13 number of cities, 2.18 runtime, 19 tour length
+LS: 13 number of cities, 0.00 runtime, 22 tour length
+
+HK: 14 number of cities, 5.13 runtime, 21 tour length
+LS: 14 number of cities, 0.00 runtime, 31 tour length
+
+HK: 15 number of cities, 11.70 runtime, 24 tour length
+LS: 15 number of cities, 0.00 runtime, 28 tour length
+
+HK: 16 number of cities, 28.34 runtime, 25 tour length
+LS: 16 number of cities, 0.00 runtime, 33 tour length
+
+HK: 17 number of cities, 71.63 runtime, 25 tour length
+LS: 17 number of cities, 0.00 runtime, 31 tour length
+
+HK: 18 number of cities, 166.78 runtime, 24 tour length
+LS: 18 number of cities, 0.00 runtime, 25 tour length
+
+HK: 19 number of cities, 416.80 runtime, 27 tour length
+LS: 19 number of cities, 0.00 runtime, 43 tour length
+
+HK: 20 number of cities, 910.32 runtime, 24 tour length
+LS: 20 number of cities, 0.00 runtime, 44 tour length
+
+HK: 21 number of cities, 2002.70 runtime, 26 tour length
+LS: 21 number of cities, 0.00 runtime, 45 tour length
+
+HK: 22 number of cities, 4405.94 runtime, 25 tour length
+LS: 22 number of cities, 0.00 runtime, 35 tour length
+LS: 23 number of cities, 0.00 runtime, 39 tour length
+LS: 24 number of cities, 0.00 runtime, 48 tour length
+LS: 25 number of cities, 0.00 runtime, 39 tour length
+LS: 26 number of cities, 0.01 runtime, 57 tour length
+LS: 27 number of cities, 0.01 runtime, 54 tour length
+LS: 28 number of cities, 0.00 runtime, 51 tour length
+LS: 29 number of cities, 0.00 runtime, 43 tour length
+LS: 30 number of cities, 0.00 runtime, 58 tour length
+LS: 31 number of cities, 0.01 runtime, 55 tour length
+LS: 32 number of cities, 0.01 runtime, 67 tour length
+LS: 33 number of cities, 0.00 runtime, 60 tour length
+LS: 34 number of cities, 0.01 runtime, 64 tour length
+LS: 35 number of cities, 0.00 runtime, 64 tour length
+LS: 36 number of cities, 0.00 runtime, 60 tour length
+LS: 37 number of cities, 0.00 runtime, 64 tour length
+LS: 38 number of cities, 0.00 runtime, 76 tour length
+LS: 39 number of cities, 0.01 runtime, 68 tour length
+LS: 40 number of cities, 0.00 runtime, 70 tour length
+LS: 41 number of cities, 0.01 runtime, 64 tour length
+LS: 42 number of cities, 0.01 runtime, 74 tour length
+LS: 43 number of cities, 0.00 runtime, 82 tour length
+LS: 44 number of cities, 0.00 runtime, 86 tour length
+LS: 45 number of cities, 0.01 runtime, 92 tour length
+LS: 46 number of cities, 0.01 runtime, 78 tour length
+LS: 47 number of cities, 0.01 runtime, 80 tour length
+LS: 48 number of cities, 0.01 runtime, 86 tour length
+LS: 49 number of cities, 0.01 runtime, 96 tour length
+LS: 50 number of cities, 0.00 runtime, 99 tour length
+LS: 100 number of cities, 0.01 runtime, 189 tour length
+LS: 1000 number of cities, 0.10 runtime, 2129 tour length
+LS: 10000 number of cities, 33.70 runtime, 22120 tour length
