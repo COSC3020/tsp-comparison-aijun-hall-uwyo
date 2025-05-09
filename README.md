@@ -32,6 +32,14 @@ Local Search however uses heuristic comparisons for its solution, and makes iter
 
 This results in the Held-Karp tours always being less than or equal to the Local Search tour length
 
+<b>Graphs</b>
+
+![image](https://github.com/user-attachments/assets/71ba5bc1-354b-4f32-8535-68b58e73a276)
+
+
+![image](https://github.com/user-attachments/assets/af86bcc5-b88e-4c79-ba8a-5bb3d517206a)
+
+
 <b>Methodology</b>
 
 First I copied over the `code.js` files from both my old tsp-held-karp and tsp-local-search assignment repositories. I am using my own code for benchmarking. Both `code.js` files were renamed respectively to `tsp-held-karp.js` and `tsp-local-search.js` and sit in this repository.
