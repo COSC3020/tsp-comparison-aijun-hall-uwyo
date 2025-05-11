@@ -34,7 +34,8 @@ This results in the Held-Karp tours always being less than or equal to the Local
 
 <b>Graphs</b>
 
-![image](https://github.com/user-attachments/assets/71ba5bc1-354b-4f32-8535-68b58e73a276)
+![image](https://github.com/user-attachments/assets/969a1a85-ecb9-4e44-b4f0-47703e16e948)
+
 
 
 ![image](https://github.com/user-attachments/assets/af86bcc5-b88e-4c79-ba8a-5bb3d517206a)
